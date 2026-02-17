@@ -4,9 +4,10 @@ Methods like:
 - curated high-quality datasets,
 - RLHF for principled reasoning, 
 - synthetic code generation vetted by experts
+
 inevitably will converge towards lazily hacking the benchmarks since they are using the benchmarks for advertizing of "hey our new model BEAT other models by 3%!".
 
-per Goodhart's Law, (e.g., arXiv:2412.15004 on LLM code security risks; ICLR 2025 on benchmark cheating).
+(per Goodhart's Law, (e.g., arXiv:2412.15004 on LLM code security risks; ICLR 2025 on benchmark cheating))
 
 Lazily hacking is good for academic shallow tasks they spam the students with at non-frontier universities, but horrible for production code.
 
